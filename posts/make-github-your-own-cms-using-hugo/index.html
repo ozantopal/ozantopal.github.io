@@ -228,7 +228,7 @@ jobs:
 # Install hugo
 brew install hugo
 </code></pre></div><p>Last but not least visit <a href="https://github.com/settings/tokens">GitHub&rsquo;s Personal Access Token Page</a> and generate new token with whole repo scope selected. As same as on picture below:<br>
-<img src="https://ozantopal.com/static/images/github-tokens.png" alt="github-tokens"></p>
+<img src="/static/images/github-tokens.png" alt="github-tokens"></p>
 <p>Copy this token and generate new repository secret on <a href="https://github.com/%7Byour-github-username%7D/%7Byour-codebase%7D/settings/secrets/actions">https://github.com/{your-github-username}/{your-codebase}/settings/secrets/actions</a> with name &ldquo;TOKEN&rdquo; on repository of your blog&rsquo;s code. Name of this secret is a must cause of master.yml file&rsquo;s line #42.</p>
 <p>Then you finally need to push your code by running those git commands</p>
 <div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">git add .
