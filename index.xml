@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://ozantopal.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0300</lastBuildDate><atom:link href="https://ozantopal.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merhaba Dünya</title>
+      <link>https://ozantopal.com/posts/merhaba-dunya/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0300</pubDate>
+      
+      <guid>https://ozantopal.com/posts/merhaba-dunya/</guid>
+      <description>Selamlar</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ozantopal.com/about/</link>
+      <pubDate>Sun, 20 Dec 2020 21:37:57 +0300</pubDate>
+      
+      <guid>https://ozantopal.com/about/</guid>
+      <description>⭐ Chess Player @ lichess.org and Chess.com
+⭐ Senior Software Engineer @ XYZ Teknoloji
+⭐ Develops C# and JS and also interests Go
+Skills I&amp;rsquo;ve experienced:
+→ Architectural Design, Design Patterns
+→ Tiered Arch., MVC, MVVM, Microservices
+→ OOP, SOLID, TDD, DDD, SOA, ABC, XYZ and any other abbreviations&amp;hellip;
+→ Scrum, Kanban, Pair Programming, Code Review
+→ C#, JS, Go
+→ MySQL, MSSQL, PostgreSQL, MongoDB, CosmosDB
+→ Azure, AWS, Google Cloud</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://ozantopal.com/posts/hello-world/</link>
+      <pubDate>Sun, 20 Dec 2020 21:37:57 +0300</pubDate>
+      
+      <guid>https://ozantopal.com/posts/hello-world/</guid>
+      <description>Hello, it&amp;rsquo;s Ozan I&amp;rsquo;m a software engineer who mostly develop c#.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ozantopal.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozantopal.com/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
