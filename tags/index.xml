@@ -6,7 +6,25 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Dec 2020 21:16:17 +0300</lastBuildDate><atom:link href="https://ozantopal.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Nov 2024 11:00:00 +0300</lastBuildDate><atom:link href="https://ozantopal.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello</title>
+      <link>https://ozantopal.com/tags/hello/</link>
+      <pubDate>Wed, 13 Nov 2024 11:00:00 +0300</pubDate>
+      
+      <guid>https://ozantopal.com/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://ozantopal.com/tags/software/</link>
+      <pubDate>Wed, 13 Nov 2024 11:00:00 +0300</pubDate>
+      
+      <guid>https://ozantopal.com/tags/software/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>go</title>
       <link>https://ozantopal.com/tags/go/</link>
@@ -31,24 +49,6 @@
       <pubDate>Sat, 26 Dec 2020 21:16:17 +0300</pubDate>
       
       <guid>https://ozantopal.com/tags/static-page/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hello</title>
-      <link>https://ozantopal.com/tags/hello/</link>
-      <pubDate>Sun, 20 Dec 2020 21:37:57 +0300</pubDate>
-      
-      <guid>https://ozantopal.com/tags/hello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software</title>
-      <link>https://ozantopal.com/tags/software/</link>
-      <pubDate>Sun, 20 Dec 2020 21:37:57 +0300</pubDate>
-      
-      <guid>https://ozantopal.com/tags/software/</guid>
       <description></description>
     </item>
     
