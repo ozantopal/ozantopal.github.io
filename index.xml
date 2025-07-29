@@ -6,58 +6,35 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Dec 2020 21:16:17 +0300</lastBuildDate><atom:link href="https://ozantopal.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Dec 2020 21:16:17 +0300</lastBuildDate>
+    <atom:link href="https://ozantopal.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Make Github Your Own CMS Using Hugo</title>
       <link>https://ozantopal.com/posts/make-github-your-own-cms-using-hugo/</link>
       <pubDate>Sat, 26 Dec 2020 21:16:17 +0300</pubDate>
-      
       <guid>https://ozantopal.com/posts/make-github-your-own-cms-using-hugo/</guid>
-      <description>Hello everyone. Last a few weeks I was thinking about making ozantopal.com great again. 😄 On that days, Hugo entered my life, thanks to Furkan&amp;rsquo;s advice. Hugo is a framework for building websites. It&amp;rsquo;s actually a static page generator. It&amp;rsquo;s written with Go and Hugo is quite fast.
-After all those compliment to Hugo; I would like to return my main subject. Today, I wanna tell you about migration of my blog to Hugo and how I maintain new posts on that new &amp;lsquo;cms&amp;rsquo;.</description>
+      <description>Hello everyone. Last a few weeks I was thinking about making ozantopal.com great again. 😄 On that days, Hugo entered my life, thanks to Furkan&amp;rsquo;s advice. Hugo is a framework for building websites. It&amp;rsquo;s actually a static page generator. It&amp;rsquo;s written with Go and Hugo is quite fast.&#xA;After all those compliment to Hugo; I would like to return my main subject. Today, I wanna tell you about migration of my blog to Hugo and how I maintain new posts on that new &amp;lsquo;cms&amp;rsquo;.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://ozantopal.com/about/</link>
       <pubDate>Sun, 20 Dec 2020 21:37:57 +0300</pubDate>
-      
       <guid>https://ozantopal.com/about/</guid>
-      <description>⭐ Chess Player @ lichess.org and Chess.com
-⭐ Staff Software Engineer
-⭐ Coding C# and JS/TS and also interests in Go
-Skills I&amp;rsquo;ve experienced:
-→ Architectural Design, Design Patterns
-→ Tiered Arch., MVC, MVVM, Microservices
-→ OOP, SOLID, TDD, DDD, SOA
-→ Scrum, Kanban, Pair Programming, Code Review
-→ .cs, .js, .ts, .go
-→ PostgreSQL, MSSQL, MongoDB, CosmosDB
-→ Azure, AWS, GCloud
-→ Docker, K8S
-→ Protobuf, gRPC
-→ Jenkins, Github Actions, Azure Devops, GitlabCI</description>
+      <description>⭐ Chess Player @ lichess.org and Chess.com&#xA;⭐ Staff Software Engineer&#xA;⭐ Coding C# and JS/TS and also interests in Go&#xA;Skills I&amp;rsquo;ve experienced:&#xA;→ Architectural Design, Design Patterns&#xA;→ Tiered Arch., MVC, MVVM, Microservices&#xA;→ OOP, SOLID, TDD, DDD, SOA&#xA;→ Scrum, Kanban, Pair Programming, Code Review&#xA;→ .cs, .js, .ts, .go&#xA;→ PostgreSQL, MSSQL, MongoDB, CosmosDB&#xA;→ Azure, AWS, GCloud&#xA;→ Docker, K8S&#xA;→ Protobuf, gRPC&#xA;→ Jenkins, Github Actions, Azure Devops, GitlabCI</description>
     </item>
-    
     <item>
       <title>Hello World</title>
       <link>https://ozantopal.com/posts/hello-world/</link>
       <pubDate>Sun, 20 Dec 2020 21:37:57 +0300</pubDate>
-      
       <guid>https://ozantopal.com/posts/hello-world/</guid>
-      <description>Hello there, this is Ozan and this is next one of my numerous blogging trials. Hopefully, this time I keep continue to blogging.
-Content of this blog will be mostly about programming but still I do not guarantee that I won&amp;rsquo;t write on different topics.
-Until I see you all soon, keep digging!</description>
+      <description>Hello there, this is Ozan and this is next one of my numerous blogging trials. Hopefully, this time I keep continue to blogging.&#xA;Content of this blog will be mostly about programming but still I do not guarantee that I won&amp;rsquo;t write on different topics.&#xA;Until I see you all soon, keep digging!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://ozantopal.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://ozantopal.com/archives/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
